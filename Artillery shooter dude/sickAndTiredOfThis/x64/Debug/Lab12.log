@@ -1,0 +1,300 @@
+﻿  test.cpp
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\testProjectile.h(108,32): error C7624: Type name 'Projectile::PositionVelocityTime' cannot appear on the right side of a class member access expression
+  (compiling source file 'test.cpp')
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\projectile.h(55,11):
+  see declaration of 'Projectile::PositionVelocityTime'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\testProjectile.h(250,12): error C2248: 'Velocity::dx': cannot access private member declared in class 'Velocity'
+  (compiling source file 'test.cpp')
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(52,11):
+  see declaration of 'Velocity::dx'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(20,7):
+  see declaration of 'Velocity'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\testProjectile.h(251,12): error C2248: 'Velocity::dy': cannot access private member declared in class 'Velocity'
+  (compiling source file 'test.cpp')
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(53,11):
+  see declaration of 'Velocity::dy'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(20,7):
+  see declaration of 'Velocity'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\testProjectile.h(265,10): error C2248: 'Velocity::dx': cannot access private member declared in class 'Velocity'
+  (compiling source file 'test.cpp')
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(52,11):
+  see declaration of 'Velocity::dx'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(20,7):
+  see declaration of 'Velocity'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\testProjectile.h(266,10): error C2248: 'Velocity::dy': cannot access private member declared in class 'Velocity'
+  (compiling source file 'test.cpp')
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(53,11):
+  see declaration of 'Velocity::dy'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\velocity.h(20,7):
+  see declaration of 'Velocity'
+  
+  uiDraw.cpp
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(55,7): error C3646: 'pt1': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(55,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(56,7): error C3646: 'pt2': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(56,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(57,7): error C3646: 'pt3': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(57,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(58,7): error C3646: 'pt4': unknown override specifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(58,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(189,29): error C2039: 'pt1': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(189,50): error C2039: 'pt1': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(189,4): error C2660: 'glVertex2f': function does not take 1 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25):
+  see declaration of 'glVertex2f'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(189,4):
+  while trying to match the argument list '()'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(190,29): error C2039: 'pt2': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(190,50): error C2039: 'pt2': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(190,4): error C2660: 'glVertex2f': function does not take 1 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25):
+  see declaration of 'glVertex2f'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(190,4):
+  while trying to match the argument list '()'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(191,29): error C2039: 'pt3': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(191,50): error C2039: 'pt3': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(191,4): error C2660: 'glVertex2f': function does not take 1 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25):
+  see declaration of 'glVertex2f'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(191,4):
+  while trying to match the argument list '()'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(192,29): error C2039: 'pt4': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(192,50): error C2039: 'pt4': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(192,4): error C2660: 'glVertex2f': function does not take 1 arguments
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1469,25):
+  see declaration of 'glVertex2f'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(192,4):
+  while trying to match the argument list '()'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(213,49): error C2039: 'pt1': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(213,61): error C2039: 'pt1': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(213,18): error C2660: 'rotatePosition': function does not take 2 arguments
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(46,10):
+  see declaration of 'rotatePosition'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(213,18):
+  while trying to match the argument list '(const Position, double)'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(214,49): error C2039: 'pt2': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(214,61): error C2039: 'pt2': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(214,18): error C2660: 'rotatePosition': function does not take 2 arguments
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(46,10):
+  see declaration of 'rotatePosition'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(214,18):
+  while trying to match the argument list '(const Position, double)'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(215,49): error C2039: 'pt3': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(215,61): error C2039: 'pt3': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(215,18): error C2660: 'rotatePosition': function does not take 2 arguments
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(46,10):
+  see declaration of 'rotatePosition'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(215,18):
+  while trying to match the argument list '(const Position, double)'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(216,49): error C2039: 'pt4': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(216,61): error C2039: 'pt4': is not a member of 'Quad'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(53,8):
+  see declaration of 'Quad'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(216,18): error C2660: 'rotatePosition': function does not take 2 arguments
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(46,10):
+  see declaration of 'rotatePosition'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(216,18):
+  while trying to match the argument list '(const Position, double)'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(235,7): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(235,7):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(236,7): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(236,7):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(237,7): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(237,7):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(238,7): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(282,9): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(282,9):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(282,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(282,22):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(282,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(282,34):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(282,46): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(284,9): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(284,9):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(284,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(284,22):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(284,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(284,34):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(286,9): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(286,9):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(286,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(286,22):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(286,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(286,34):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(292,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(292,8):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(292,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(292,22):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(292,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(292,34):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(292,46): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(294,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(294,8):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(294,21): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(294,21):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(294,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(294,34):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(296,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(296,8):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(296,20): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(296,20):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(296,32): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(296,32):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(301,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(301,8):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(301,22): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(301,22):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(301,35): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(301,35):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(301,48): error C2078: too many initializers
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(303,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(303,8):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(303,20): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(303,20):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(303,32): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(303,32):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(305,8): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(305,8):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(305,21): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(305,21):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(305,34): error C2440: 'initializing': cannot convert from 'initializer list' to 'GLfloat'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(305,34):
+  The initializer contains too many elements
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(308,4): error C2065: 'PT': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(308,7): error C2146: syntax error: missing ';' before identifier 'pointsMuzzleFlash'
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(308,7): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(343,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(344,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(343,24): error C2660: 'rotatePosition': function does not take 2 arguments
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(46,10):
+  see declaration of 'rotatePosition'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(343,24):
+  while trying to match the argument list '(const Position, double)'
+  
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(345,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(346,44): error C2065: 'pointsMuzzleFlash': undeclared identifier
+C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(345,24): error C2660: 'rotatePosition': function does not take 2 arguments
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(46,10):
+  see declaration of 'rotatePosition'
+  C:\Users\jacks\OneDrive\Desktop\EncapsulationDesignCode\HowitzerSim\Artillery shooter dude\sickAndTiredOfThis\uiDraw.cpp(345,24):
+  while trying to match the argument list '(const Position, double)'
+  
+  uiInteract.cpp
+  Generating Code...
